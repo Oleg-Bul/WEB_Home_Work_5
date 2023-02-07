@@ -1,0 +1,17 @@
+<!-- Задача №1: проверить XML на Well formed: -->
+<?xml version="1.1" encoding="UTF-8" ?>
+<req>
+
+        <SURNAME>Иванов</SURNAME>
+
+        <NAME>Иван</NAME>
+
+        <PATRONYMIC>Иванович</PATRONYMIC>
+
+        <BIRTHDATE>01.01.1990</BIRTHDATE>
+
+        <BIRTHPLACE>Москва</BIRTHPLACE>
+
+        <PHONE>8 926 766 48 48</PHONE>
+
+</req>
